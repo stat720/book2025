@@ -5,4 +5,47 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Welcome to STAT 705  
+
+
+- [About me](https://jlacasa.github.io/)  
+- About you:    
+
+```{r}
+
+```
+
+## About this course:  
+
+### Logistics  
+
+- [Website](https://stat720.github.io/summer2025)
+- Syllabus
+- Statistical programming
+- Rough draft of the course
+- Semester project
+- Grades
+
+### Philosophy  
+
+#### Statistics  
+- Statistical thinking
+- Think of data generating processes
+- Writing out statistical models
+- Fitting the model using R  
+
+#### Teaching  
+- Applied problems  
+- Kahoot  
+
+## Learning goals   
+
+By the end of this course, you should be able to:  
+- Be able to identify the treatment design and experiment design.  
+- Be able to write out the statistical model.  
+- Know the benefits/disadvantages of 
+
+## Why do we design experiments?  
+
+## For next class  
+
