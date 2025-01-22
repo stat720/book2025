@@ -1,4 +1,4 @@
-welcome-to-stat-705
+welcome-to-stat-720
 about-this-course
 logistics
 philosophy
@@ -7,5 +7,6 @@ teaching
 learning-goals
 why-do-we-design-experiments
 for-next-class
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+what-are-designed-experiments
+cases
+what-are-designed-experiments-1
